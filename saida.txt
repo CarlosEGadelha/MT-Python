@@ -1,0 +1,4 @@
+('abababbababa ', ['-', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a', '-'], ' OK: aceito')
+('aaabaababaa ', ['-', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a'], ' NÃO ACEITO')
+('abb ', ['-', 'a', 'b', 'a', '-'], ' OK: aceito')
+('abab ', ['-', 'a', 'b', 'a', 'a', 'b'], ' NÃO ACEITO')
